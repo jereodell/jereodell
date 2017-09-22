@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Osler's Mistress"
-date:   2017-09-22
+date: 2017-09-22
 ---
 On October 1st, 1903, William Osler provided "An Address on the Master-Word in Medicine" to the medical students enrolled at the University of Toronto. Osler, a key figure in the history of medical education, was invited to celebrate the opening of some new buildings. And, in a way that would not be appreciated today, he elevated his prose with plenty of classical rhetoric ... nearly every sentence is jammed packed with adjectives and allusions. But, nonetheless, the address has had some staying power in the medical profession and, perhaps even more so, in the medical humanities. This staying power is due, in large part, to Osler's other accomplishments but also to his recommendation that every doctor should establish a bedside reading list. He advises that doctors would benefit from a daily half hour of reading good books. By reading "good" books, doctors acquire new perspectives and heightened aptitudes for understanding the human circumstances. He notes that reading helps the professional to escape the circularity of professionalism -- one that "tends to narrow the mind" (p. 1199).
 
