@@ -18,6 +18,6 @@ In other words, professionals can make time by avoiding human physical desire. I
 
 Reference:
 
-Osler, W. (1903). An Address ON THE MASTER-WORD IN MEDICINE. British Medical Journal, 2(2236), 1196–1200. Available from: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2514735/] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2514735/)
+Osler, W. (1903). An Address ON THE MASTER-WORD IN MEDICINE. British Medical Journal, 2(2236), 1196–1200. Available from: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2514735/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2514735/)
 
 
