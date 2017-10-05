@@ -4,7 +4,6 @@ title:  "Football Season: When White Christians Want to Ban Prayer"
 date:   2017-10-04  
 
 ---
-Football Season: When White Christians Want to Ban Prayer
 
 We are well into American football season. As in 2016, some African American players in the National Football League are protesting systemic racism by refusing to stand during the U.S. national anthem. Let me lose most of my readers right now. Years of my life have gone by without watching a single NFL game and now it's something that few people in the U.S. can ignore. Similarly, months go by, especially if I'm not attending any sporting events, in which I do not hear the national anthem. Why so much religious fervor for footballs and anthems? What gods are worshiped in this land?
 
