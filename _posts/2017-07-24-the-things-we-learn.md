@@ -2,7 +2,7 @@
 layout: post
 title:  "The Things We Learn"
 date:   2017-07-24 20:10:23 -0400
-categories: learning; jekyll; technology
+
 ---
 
 What did I ever want to do? Something of artistry & daily. I landed on literature and poetry in college. To write better poetry I learned to read — to read slowly and deeply. And then I learned much about disparate subjects of the ordinary and the marvelous. Theology of some kinds. Philosophy of some kinds. The tactile & visual arts of some kinds. The writings of many, many kinds. And some languages, loosely — but not well enough to find a toilet. And all that not enough. But I’m grateful for it all the same.
