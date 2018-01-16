@@ -15,5 +15,5 @@ We were not able to dig into that question in our article. In fact, our non-heal
 
 What does all this mean for our scholarly communication services? I think one of the big "take homes" for me is ... don't assume that an indifferent author is an author that's unwilling to participate in green OA. We've got some work to do in the health sciences -- they're just less aware of key issues in the scholarly publishing ecosystem -- but that doesn't mean that they won't supply a manuscript for a green OA repository. (We have a few thousand manuscripts in IUPUI ScholarWorks in support of that observation.) At the same time, when we ask for a manuscript for the institutional repository, we're having conversations about OA, libraries, and publishing. In this process our authors are learning about the issues. It's my hope that a steady change in attitudes will evolve, one manuscript at a time.
 
-Jere Odell
+> Jere Odell  
 First posted Jan. 16, 2018 at: [https://ulib.iupui.edu/digitalscholarship/blog/green-oa-disconnect-attitudes-or-actions](https://ulib.iupui.edu/digitalscholarship/blog/green-oa-disconnect-attitudes-or-actions)
