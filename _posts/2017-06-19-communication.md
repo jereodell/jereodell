@@ -2,9 +2,7 @@
 layout: post
 title: "Communication or Competition: Reading "Open Access: Toward the Internet of the Mind""
 date: 2017-06-19
-
 ---
-
 Jean-Claude Guédon, one of the original attendees and signatories of the “Budapest Open Access Initiative” (BOAI) (2002), has written a moral history of the open access movement and a vision for the future of scholarly communication. In “[Open Access: Toward the Internet of the Mind](http://www.budapestopenaccessinitiative.org/open-access-toward-the-internet-of-the-mind),” he provides a narrative of how open access (OA) has evolved (for better and for worse) and calls for an increase in support for cooperative, nonprofit solutions.
 
 Guédon’s narrative revolves around international inequities in scholarly publishing and the damage that these inequities do to the health of communities around the world … and, by association, to all of us. The strength of this approach is that it makes the global exchange of knowledge everyone’s problem. Likewise, it reveals how a system that sort of, sometimes works for the wealthy, is a system that shuts out and excludes other voices. Like most entrenched systems of privilege, it can leave many of its beneficiaries blind, indifferent, or resigned to injustice. On the other hand, the difficulty of building a narrative around global issues is that local responses to the global problem can be hard to imagine. Guédon calls for broad, state-based and organization-based collaboration to build technologies and funding mechanisms to make scholarly communication open for everyone -- free to readers, free to authors … which is to say: subsidized by universities, research funders, and governments. Ultimately, one might follow the money back to taxpayers … or, perhaps, “consumers” (a.k.a., students).
