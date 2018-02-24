@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Communication or Competition: Reading "Open Access: Toward the Internet of the Mind""
-date:   2017-06-19
+title: "Communication or Competition: Reading "Open Access: Toward the Internet of the Mind""
+date: 2017-06-19
 
 ---
 
